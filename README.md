@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" />
+</p>
 
 <div align="center">  
      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GemsZen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=9932cc&icon_color=d193eb&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Molenda github stats"/>
