@@ -9,23 +9,10 @@
 </p>
 
 
-
 <div align="center">  
      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GemsZen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=9932cc&icon_color=d193eb&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Molenda github stats"/>
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemsZen&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=9932cc&text_color=d3d3d3&bg_color=0d1117"
 </div>
-  
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
   
 ![snake gif](https://github.com/GemsZen/GemsZen/blob/output/github-contribution-grid-snake.svg)
 
