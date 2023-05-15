@@ -15,7 +15,6 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemsZen&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=9932cc&text_color=d3d3d3&bg_color=0d1117"
 </div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GemsZen&show_icons=true&theme=transparent)
 
 ![snake gif](https://github.com/GemsZen/GemsZen/blob/output/github-contribution-grid-snake.svg)
 
