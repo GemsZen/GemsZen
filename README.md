@@ -4,6 +4,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GemsZen&bg_color=0d1117&color=9932cc&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GemsZen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GemsZen&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" />
 </p>
